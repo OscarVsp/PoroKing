@@ -1,4 +1,4 @@
-# PoroLandBot
+# PoroKing
 
 This is a discord bot written in python using the [disnake library](https://github.com/DisnakeDev/disnake) for my own server.
 
@@ -6,7 +6,7 @@ This is a discord bot written in python using the [disnake library](https://gith
 
 Clone it:
 
-`git clone https://github.com/OscarVsp/PoroLandBot.git`
+`git clone https://github.com/OscarVsp/PoroKing`
 
 Initialization (virtual env, requirements, pre-commit, .env)
 
